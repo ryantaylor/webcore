@@ -1,0 +1,2 @@
+# webcore
+Barebones website configuration.
